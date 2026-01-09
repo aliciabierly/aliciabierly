@@ -14,9 +14,9 @@ Hi, my name is Alicia Bierly and I am a third year data science student at the U
 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="45"/>
 
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" height="45"/>
 
-  <!-- Talapas (text badge since no official icon) -->
   <img src="https://img.shields.io/badge/Talapas-HPC-5A7FFF?style=for-the-badge" alt="Talapas HPC" height="45"/>
+  <img> src="https://camo.githubusercontent.com/54f33494b8acd0e37768f03c8bbe138d85875e7095dd7fab6243d6c03bddbaad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d3135303435383f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465" alt="Pandas" height="45"/>
+  
 </p>
