@@ -1,7 +1,7 @@
 Hi, my name is Alicia Bierly and I am a third year data science student at the University of Oregon. I have strong skills in Python, R, C, and SQL. Experienced in exploratory data analysis, classification, and ___. Passionate about applying data science to real-world challenges.
 
 <h2> What I’m Developing </h2>
-- <b><a href="https://github.com/__">??</a></b> – Analysis of large-scale genomic data for research on archaic ancestry, tandem repeats, and natural selection.
+- <b><a href="https://github.com/aliciabierly/Rohlfs_Lab">Rohlfs_Lab</a></b> – Analysis of large-scale genomic data for research on archaic ancestry, tandem repeats, and natural selection.
 
 <h2> &nbsp;🛠 Tech Stack & Tools</h2>
 <p align="left">
