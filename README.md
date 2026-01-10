@@ -1,5 +1,7 @@
 Hi, my name is Alicia Bierly and I am a third year data science student at the University of Oregon. I have strong skills in Python, R, C, and SQL. Experienced in exploratory data analysis, classification, and ___. Passionate about applying data science to real-world challenges.
 
+<h2> What I’m Developing </h2>
+
 <h2> &nbsp;🛠 Tech Stack & Tools</h2>
 <p align="left">
   <img src="https://camo.githubusercontent.com/324b4cfa68deb1b9c0008c02e910370ae1e1b7141ce0fe77972b6ea034e7abb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="Python" height="45"/>
