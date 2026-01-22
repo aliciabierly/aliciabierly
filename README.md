@@ -3,7 +3,6 @@ Hi, my name is Alicia Bierly and I am a third year data science student at the U
 <h2> Personal Projects </h2>
 
 * <b><a href="https://github.com/aliciabierly/Energy_Profiling">Data Analysis Internship Project</a></b>: Built automated energy profiling scripts for commercial buildings to support data-driven energy reduction recommendations.
-
 * <b><a href="https://github.com/aliciabierly/Rohlfs_Lab">Rohlfs_Lab</a></b>: Analysis of large-scale genomic data for research on archaic ancestry, tandem repeats, and natural selection.
 
 <h2> &nbsp;🛠 Tech Stack & Tools</h2>
