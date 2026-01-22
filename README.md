@@ -4,7 +4,6 @@ Hi, my name is Alicia Bierly and I am a fourth year data science student at the 
 
 * <b><a href="https://github.com/aliciabierly/Energy_Profiling">Energy Consumption Project</a></b>: Built automated energy profiling scripts for commercial buildings to support data-driven energy reduction recommendations.
 * <b><a href="https://github.com/aliciabierly/Moss_Lichen_Distributions">Moss and Lichen Project</a></b>: Examines environmental factors affecting moss and lichen growth on gravestones. 
-* <b><a href="https://github.com/aliciabierly/Rohlfs_Lab">Rohlfs_Lab</a></b>: Analysis of large-scale genomic data for research on archaic ancestry, tandem repeats, and natural selection.
 
 <h2> &nbsp;🛠 Tech Stack & Tools</h2>
 <p align="left">
@@ -27,4 +26,5 @@ Hi, my name is Alicia Bierly and I am a fourth year data science student at the 
 <h2> Current Focuses </h2>
 
 * **Quantitative Methods Peer Consultant**: Advise students and professors on statistical analysis, programming, and data visualization for research and courses at UO
+* <b><a href="https://github.com/aliciabierly/Rohlfs_Lab">Rohlfs_Lab</a></b>: Analysis of large-scale genomic data for research on archaic ancestry, tandem repeats, and natural selection.
 * **Vice President of Women in Tech**: Manage communications and execution for major club events <b><a href="https://uoregon.campuslabs.com/engage/organization/women-in-computer-science/gallery/album/420019">(Gallery)</a></b>
