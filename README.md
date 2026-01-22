@@ -1,6 +1,6 @@
 Hi, my name is Alicia Bierly and I am a fourth year data science student at the University of Oregon. I have strong skills in Python, R, and C/Unix. Experienced in exploratory data analysis, classification, high performance computing, and consulting. Passionate about applying data science within biology. Check out my personal projects, I have a wide variety of interests!
 
-👩🏼‍💻 <h2> Personal Projects </h2>
+<h2> &nbsp;👩🏼‍💻 Personal Projects </h2>
 
 * <b><a href="https://github.com/aliciabierly/Energy_Profiling">Energy Consumption Project</a></b>: Built automated energy profiling scripts for commercial buildings to support data-driven energy reduction recommendations.
 * <b><a href="https://github.com/aliciabierly/Moss_Lichen_Distributions">Moss and Lichen Project</a></b>: Examines environmental factors affecting moss and lichen growth on gravestones. 
