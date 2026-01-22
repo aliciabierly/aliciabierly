@@ -25,5 +25,6 @@ Hi, my name is Alicia Bierly and I am a fourth year data science student at the 
 </p>
 
 <h2> Current Focuses </h2>
+
 * Quantitative Methods Peer Consultant: Advise students and professors on statistical analysis, programming, and data visualization for research and courses at UO
 * Vice President of Women in Tech at UO: Manage communications and execution for major club events <b><a href="https://uoregon.campuslabs.com/engage/organization/women-in-computer-science/gallery/album/420019">(Gallery)</a></b>
