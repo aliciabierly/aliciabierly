@@ -23,7 +23,7 @@ Hi, my name is Alicia Bierly and I am a fourth year data science student at the 
 
 </p>
 
-<h2> 🤔 Current Focuses </h2>
+<h2> 🤔 Focus Areas </h2>
 
 * **Quantitative Methods Peer Consultant**: Advise students and professors on statistical analysis, programming, and data visualization for research and courses at UO
 * <b><a href="https://github.com/aliciabierly/Rohlfs_Lab">Rohlfs_Lab</a></b>: Analysis of large-scale genomic data for research on archaic ancestry, tandem repeats, and natural selection.
