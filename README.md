@@ -25,7 +25,8 @@ Hi, my name is Alicia Bierly and I am a fourth year data science student at the 
 </p>
 
 <h2> 🤔 Focus Areas </h2>
-* [Rohlfs Lab](https://github.com/aliciabierly/Rohlfs_Lab): Analysis of large-scale genomic data for research on archaic ancestry, tandem repeats, and natural selection.
+
+* : Analysis of large-scale genomic data for research on archaic ancestry, tandem repeats, and natural selection.
 
 * **Quantitative Methods Peer Consultant**: Advise students and professors on statistical analysis, programming, and data visualization for research and courses at UO
 
