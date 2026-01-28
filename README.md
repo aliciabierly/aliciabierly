@@ -26,5 +26,7 @@ Hi, my name is Alicia Bierly and I am a fourth year data science student at the 
 
 <h2> 🤔 Focus Areas </h2>
 * <b><a href="https://github.com/aliciabierly/Rohlfs_Lab">Rohlfs Lab</a></b>: Analysis of large-scale genomic data for research on archaic ancestry, tandem repeats, and natural selection.
+
 * **Quantitative Methods Peer Consultant**: Advise students and professors on statistical analysis, programming, and data visualization for research and courses at UO
+
 * **Vice President of Women in Tech**: Manage communications and execution for major club events <b><a href="https://uoregon.campuslabs.com/engage/organization/women-in-computer-science/gallery/album/420019">(Gallery)</a></b>
