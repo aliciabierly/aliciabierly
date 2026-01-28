@@ -5,6 +5,7 @@ Hi, my name is Alicia Bierly and I am a fourth year data science student at the 
 * <b><a href="https://github.com/aliciabierly/Energy_Profiling">Energy Consumption Project</a></b>: Built automated energy profiling scripts for commercial buildings to support data-driven energy reduction recommendations.
 * <b><a href="https://github.com/aliciabierly/Moss_Lichen_Distributions">Moss and Lichen Project</a></b>: Examines environmental factors affecting moss and lichen growth on gravestones.
 * <b><a href="https://github.com/aliciabierly/cs410_finalproject">Hemoglobin Project</a></b>: compare topological features of oxygenated, deoxygenated, and sickle-cell hemoglobin forms using atomic coordinate data.
+* <b><a href="https://github.com/aliciabierly/Diabetes_Exploration_and_Prediction">Diabetes Exploration and Prediction</a></b>: Statistical and machine learning analysis of medical data to identify significant predictors of diabetes and differentiate between Type I and Type II diagnoses.
 
 <h2> &nbsp;🛠 Tech Stack & Tools</h2>
 <p align="left">
