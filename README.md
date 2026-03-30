@@ -1,11 +1,18 @@
 Hi, my name is Alicia Bierly and I am a fourth year data science student at the University of Oregon. I have strong skills in Python, R, and C/Unix. Experienced in exploratory data analysis, classification, high performance computing, and consulting. Passionate about applying data science within biology. Check out my personal projects, I have a wide variety of interests!
 
+<h2> 🤔 Focus Areas </h2>
+
+* **[Rohlfs Lab](https://github.com/aliciabierly/Rohlfs_Lab)**: Analysis of genomic data for research on archaic ancestry, tandem repeats, and natural selection.
+* **Quantitative Methods Peer Consultant**: Advise students and professors on statistical analysis, programming, and data visualization for research and courses at UO
+* **Vice President of Women in Tech**: Manage communications and execution for major club events <b><a href="https://uoregon.campuslabs.com/engage/organization/women-in-computer-science/gallery/album/420019">(Gallery)</a></b>
+
 <h2> &nbsp;👩🏼‍💻 Personal Projects </h2>
 
-* <b><a href="https://github.com/aliciabierly/Energy_Profiling">Energy Consumption Project</a></b>: Built automated energy profiling scripts for commercial buildings to support data-driven energy reduction recommendations.
 * <b><a href="https://github.com/aliciabierly/Moss_Lichen_Distributions">Moss and Lichen Project</a></b>: Examines environmental factors affecting moss and lichen growth on gravestones.
 * <b><a href="https://github.com/aliciabierly/cs410_finalproject">Hemoglobin Project</a></b>: compare topological features of oxygenated, deoxygenated, and sickle-cell hemoglobin forms using atomic coordinate data.
 * <b><a href="https://github.com/aliciabierly/Diabetes_Exploration_and_Prediction">Diabetes Exploration and Prediction</a></b>: Statistical and machine learning analysis of medical data to identify significant predictors of diabetes and differentiate between Type I and Type II diagnoses.
+* <b><a href="https://github.com/aliciabierly/Energy_Profiling">Energy Consumption Project</a></b>: Built automated energy profiling scripts for commercial buildings to support data-driven energy reduction recommendations.
+
 
 <h2> &nbsp;🛠 Tech Stack & Tools</h2>
 <p align="left">
@@ -24,9 +31,3 @@ Hi, my name is Alicia Bierly and I am a fourth year data science student at the 
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" height="45"/>
 
 </p>
-
-<h2> 🤔 Focus Areas </h2>
-
-* **[Rohlfs Lab](https://github.com/aliciabierly/Rohlfs_Lab)**: Analysis of genomic data for research on archaic ancestry, tandem repeats, and natural selection.
-* **Quantitative Methods Peer Consultant**: Advise students and professors on statistical analysis, programming, and data visualization for research and courses at UO
-* **Vice President of Women in Tech**: Manage communications and execution for major club events <b><a href="https://uoregon.campuslabs.com/engage/organization/women-in-computer-science/gallery/album/420019">(Gallery)</a></b>
