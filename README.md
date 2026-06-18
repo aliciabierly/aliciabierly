@@ -1,4 +1,4 @@
-Hi, my name is Alicia Bierly and I am a fourth year data science student at the University of Oregon. I have strong skills in Python, R, and C/Unix. Experienced in exploratory data analysis, classification, high performance computing, and consulting. Passionate about applying data science within biology. Check out my personal projects, I have a wide variety of interests!
+Hi, my name is Alicia Bierly recently graduated with my degree in data science at the University of Oregon. I will be working in the Rohlfs Lab full time next year as I apply for grad school for the 2027 cohort. I have strong skills in Python, R, and C/Unix. Experienced in exploratory data analysis, classification, high performance computing, and consulting. Passionate about applying data science within biology. Check out my personal projects, I have a wide variety of interests!
 
 <h2> 🤔 Focus Areas </h2>
 
